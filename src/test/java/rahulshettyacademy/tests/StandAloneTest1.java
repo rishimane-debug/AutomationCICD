@@ -19,6 +19,8 @@ public class StandAloneTest1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//New comment for CICD
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
